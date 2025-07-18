@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: medium 500;
+}
+
+.header {
+    color: white;
+    background-color: rgb(116, 116, 220);
+}
+
+.footer {
+    color: white;
+    background-color: rgb(116, 116, 220);
+    text-align: center;
+}
+
+.style1 {
+    max-width: 60%;
+}
+
+.style2 {
+    max-width: 47%;
+}
